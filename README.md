@@ -1,6 +1,5 @@
 # Tela Login
 Ola, Meu nome é Eduardo e esse foi mais um projeto para meu aprendizado de PHP e front end.
-
 <br>
   Aqui são umas das linguagens de progamação que tenho conhecimento. e que utilizo para criar meus sites 💻
 <br>
